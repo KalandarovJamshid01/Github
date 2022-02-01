@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 1.osh
 2.manti
 3.shorva
+=======
+1.Ahad qayum
+2.Ahad qayum
+3.Ahad qayum
+>>>>>>> movies
